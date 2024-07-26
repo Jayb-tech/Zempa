@@ -1,4 +1,3 @@
-python = ">=3.10.0,<3.12"
-highrise-bot-sdk = "23.3.4"
+highrise-bot-sdk = 23.3.4
 flask
-npm = "0.1.1"
+npm
